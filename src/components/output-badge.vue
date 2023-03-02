@@ -15,12 +15,7 @@
                     "border-width:0px; border:0px; text-decoration: none;"><img width="20"
                     height="20" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
-                    src="https://cdn.treehouseinternetgroup.com/cms_images/872/cnlive-fb.png" /></a>&nbsp;&nbsp;<a href="https://twitter.com/ContractorNatn" target="_blank"
-                    style=
-                    "border-width:0px; border:0px; text-decoration: none;"><img width="20"
-                    height="20" style=
-                    "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
-                    src="https://cdn.treehouseinternetgroup.com/cms_images/872/cnlive-twitter.png" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/contractor.nation/" target="_blank"
+                    src="https://cdn.treehouseinternetgroup.com/cms_images/872/cnlive-fb.png" /></a>&nbsp;<a href="https://www.instagram.com/contractor.nation/" target="_blank"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="20"
                     height="20" style=

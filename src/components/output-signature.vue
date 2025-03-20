@@ -5,9 +5,9 @@
         "background: none; border-width: 0px; border: 0px; margin: 0; padding: 0;">
         <tr>
             <td valign="top" style=
-            "padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0; border-right: solid 2px #FF7F30">
+            "padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0; border-left: 0; border-right: solid 2px #FF7F30">
             <a href="https://www.contractornationlive.com/"><img width="175"
-                    height="145" style="width: 175px; max-width: 175px !important; height: 145px; max-height: 145px !important;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2535/CNLive25-emailsign.jpg"
+                    height="145" style="width: 175px; max-width: 175px !important; height: 145px; max-height: 145px !important;" id="preview-image-url" src="https://cdn.treehouseinternetgroup.com/cms_images/2535/CNLive25_emailsign.jpg"
               name="preview-image-url" /></a>
             </td>
             

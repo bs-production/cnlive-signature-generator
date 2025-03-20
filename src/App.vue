@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-           <img src="https://cdn.treehouseinternetgroup.com/cms_images/2535/CN%20Live%2024%20Logo.png" alt="">
+           <img src="https://cdn.treehouseinternetgroup.com/cms_images/2535/CN%20Live%2025%20CMYK%20(1).png" alt="">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p>
@@ -111,7 +111,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2024 Contractor Nation
+                    &copy;2025 Contractor Nation
                 </p>
             </div>
         </div>
